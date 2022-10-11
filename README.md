@@ -7,10 +7,10 @@
              
   <h2> 💻About Me </h2>
      
-* I am a Software Engineer from Ethiopia 💻.
-* I am YouthSpace Ambassador 🔭
-* Full-stack web and mobile application developer 📱
-* Cybersecurity and Business entusiast & Blockchain App Developer 🪩
+* I am a Software Engineer 💻.
+* I am Youth Space Ambassador 🔭
+* Full-stack web and mobile app developer 📱
+* Cybersecurity and Business enthusiast & Blockchain App Developer 🪩
 * Writer & Poet ✍🏼
 <br>
 
