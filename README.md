@@ -1,12 +1,6 @@
                                                     👩 Hello 👋, Betsy Here
                                    "Success is the sum of small efforts, repeated day-in and day-out."
                                                                                       — Robert Collier
-
-<h3>Let's Connect!</h3>
-                                                     
-<a href="https://www.instagram.com/sassybgs/"><img height="50" src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-2-512.png"/>
-</a><a href="https://www.linkedin.com/in/betselot-getnet-2423561aa/"><img height="50" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/11-linkedin-512.png"/></a><a href="[https://www.instagram.com/sassybgs/](https://twitter.com/BetselotGetnet)"><img height="50" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/03-twitter-512.png"/></a>
-                                                       
                                                                                       
                                                                                       
     <h2>   💻About Me :</h2>
@@ -16,6 +10,11 @@
 * Full-stack web and mobile application developer 📱
 * Cybersecurity and Business entusiast & Blockchain App Developer 🪩
 * Writer & Poet ✍🏼
+
+<h3>Let's Connect!</h3>
+                                                     
+<a href="https://www.instagram.com/sassybgs/"><img height="40" src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-2-512.png"/>
+</a><a href="https://www.linkedin.com/in/betselot-getnet-2423561aa/"><img height="40" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/11-linkedin-512.png"/></a><a href="[https://www.instagram.com/sassybgs/](https://twitter.com/BetselotGetnet)"><img height="40" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/03-twitter-512.png"/></a>
 
 
 
