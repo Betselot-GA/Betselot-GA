@@ -27,6 +27,7 @@
 <p align="left">
 <img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/10-html5-256.png" height="80"/>
 <img src="https://cdn1.iconfinder.com/data/icons/bootstrap/16/bootstrap-512.png"/ height="80">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/graphql-512.png" height="80"/>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/react-512.png"/ height="80">
 <img src="https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-2/15/nextjs-512.png" height="80"/>
 <img src="https://cdn3.iconfinder.com/data/icons/remixicon-logos/24/flutter-line-512.png" alt="flutter" height="80"/>
@@ -38,3 +39,5 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Betselot-GA&show_icons=true&theme=radical" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Betselot-GA&layout=compact" />
+
+<img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg" />
