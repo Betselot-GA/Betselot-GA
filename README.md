@@ -1,16 +1,30 @@
-### Hi there 👋
+name: Betselot Getnet Semaw
+located_in: Mississippi, United States
+current_job: Full Stack Developer
+education:
+  [
+    "Learning Bachelor's in Software Engineering",
+  ]
 
-<!--
-**Betselot-GA/Betselot-GA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+fields_of_interests:
+  [
+    "Web Development",
+    "Cyber Security",
+    "Blockchain",
+    "Distibuted Systems",
+    "Operating Systems",
+    "DevOps",
+    "Writer & Poet",
+    "Space & Business Enthusiast"
+  ]
+technical_background:
+  [
+    "Software Engineer",
+    "Intern - Frontend Engineer",
+    "Intern - Marketing Associate",
+    "Intern - "Event and Marketing Department Head",
+  ]
+  
+currently_learning: ["Project Management (PMP certification), Django"]
+2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+hobbies: ["Reading Books", "Cinema", "Traveling", "Art", "Comedy"]
