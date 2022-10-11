@@ -1,14 +1,13 @@
-                                                    👩 Hello 👋, I'm Betselot Getnet Semaw (Betsy/Sassy)
+                                                    👩 Hello 👋, Betsy Here
                                    "Success is the sum of small efforts, repeated day-in and day-out."
                                                                                       — Robert Collier
                                                        Let's Connect!
-                                    <a href="https://www.instagram.com/sassybgs/">
+<a href="https://www.instagram.com/sassybgs/">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-2-512.png"/>
-</a>
-  <a href="https://www.linkedin.com/in/betselot-getnet-2423561aa/">
+</a><a href="https://www.linkedin.com/in/betselot-getnet-2423561aa/">
   <img height="50" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/11-linkedin-512.png"/>
-</a>  <a href="https://www.instagram.com/sassybgs/">
-  <img height="50" src="https://twitter.com/BetselotGetnet"/>
+</a><a href="[https://www.instagram.com/sassybgs/](https://twitter.com/BetselotGetnet)">
+  <img height="50" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/03-twitter-512.png"/>
 </a>
                                                        
                                                                                       
