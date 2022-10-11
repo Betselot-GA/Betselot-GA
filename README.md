@@ -32,7 +32,7 @@
 <img src="https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-2/15/nextjs-512.png" height="80"/>
 <img src="https://cdn3.iconfinder.com/data/icons/remixicon-logos/24/flutter-line-512.png" alt="flutter" height="80"/>
 <img src="https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-2/15/mongodb-512.png" alt="mongodb" height="80"/>
-<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mysql-512.png" alt="mysql" width="60" height="80"/>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mysql-512.png" alt="mysql" width="80" height="80"/>
 <img src="https://cdn3.iconfinder.com/data/icons/fluent-regular-24px-vol-4/24/ic_fluent_javascript_24_regular-512.png" alt="javascript" height="80"/>
 
 
