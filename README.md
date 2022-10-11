@@ -12,7 +12,7 @@
 * Full-stack web and mobile application developer 📱
 * Cybersecurity and Business entusiast & Blockchain App Developer 🪩
 * Writer & Poet ✍🏼
-
+<br>
 
 <h3>Let's Connect!</h3>
                                                      
@@ -37,4 +37,4 @@
 
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Betselot-GA&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=Betselot-GA&show_icons=true&theme=radical" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Betselot-GA&layout=compact" />
