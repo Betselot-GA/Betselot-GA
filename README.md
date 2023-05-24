@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Betselot</h1>
+</br>
 <h3 align="center">"Success is the sum of small efforts day in and day out"</h3>
 
+</br>
 - 🌱 I’m currently learning **ML, DevOPS and AWS**
 
-- 👨‍💻 All of my projects are available at [https://vercel.com/betselotsemaw-gmailcom/portfolio-gdru](https://vercel.com/betselotsemaw-gmailcom/portfolio-gdru)
+- 👨‍💻 All of my projects are available at my <a href="https://vercel.com/betselotsemaw-gmailcom/portfolio-gdru">Portfolio</a>
 
-- 💬 Ask me about **anything**
+- 💬 Let's talk about tech
 
 - 📫 How to reach me **betselotgetnet2227@gmail.com**
 
