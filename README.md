@@ -5,7 +5,7 @@
 </br>
 - 🌱 I’m currently learning **ML, DevOPS and AWS**
 
-- 👨‍💻 All of my projects are available at my <a href="[https://vercel.com/betselotsemaw-gmailcom/portfolio-gdru](https://portfolio-gdru.vercel.app/)">Portfolio</a>
+- 👨‍💻 All of my projects are available at my <a href="https://portfolio-gdru.vercel.app/">Portfolio</a>
 
 - 💬 Let's talk about tech
 
