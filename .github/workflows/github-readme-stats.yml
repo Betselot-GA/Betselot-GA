@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
+  # Regenerate after the placeholder (or any) stats SVG lands on main — uses GITHUB_TOKEN on the runner.
+  push:
+    branches:
+      - main
+    paths:
+      - profile/stats.svg
 
 jobs:
   stats-card:
