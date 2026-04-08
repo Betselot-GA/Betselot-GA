@@ -78,10 +78,6 @@ Plot your next project from **[mission portfolio](https://portfolio-gdru.vercel.
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=betselot-ga&theme=tokyonight" alt="GitHub profile summary: activity overview" />
-
-<br/><br/>
-
 | Profile rank & activity | Top languages by repo |
 |:--|:--|
 | <img src="https://raw.githubusercontent.com/Betselot-GA/Betselot-GA/main/profile/stats.svg" alt="GitHub stats and profile rank" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=betselot-ga&theme=tokyonight" alt="Top languages by repository" /> |
