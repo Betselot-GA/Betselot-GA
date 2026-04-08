@@ -1,37 +1,44 @@
 <div align="center">
 
+<sub>✦ · ˚ · ✦</sub>
+
 ## Betselot
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Software+developer;ML+%E2%80%A2+DevOps+%E2%80%A2+AWS;Building+reliable%2C+shippable+products" alt="Typing introduction" />
+<sub>Payload · systems · orbit-ready software</sub>
 
-> *Success is the sum of small efforts, day in and day out.*
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3200&pause=900&color=C084FC&center=true&vCenter=true&width=620&lines=Plotting+course+across+ML%2C+DevOps+%26+AWS;Ship+reliable+code+like+mission+critical+hardware;Small+experiments+compound+into+deep+discovery" alt="Typing introduction" />
+
+> *“Somewhere, something incredible is waiting to be known.”* — Carl Sagan
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-gdru.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-contact-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:betselotgetnet2227@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/betselot-getnet-semaw-2423561aa/)
-[![Twitter](https://img.shields.io/badge/Twitter-0f172a?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/betselotgetnet)
+[![Portfolio](https://img.shields.io/badge/Mission%20portfolio-1e1033?style=for-the-badge&logo=vercel&logoColor=c4b5fd)](https://portfolio-gdru.vercel.app/)
+[![Email](https://img.shields.io/badge/Hail%20frequency-1e1033?style=for-the-badge&logo=gmail&logoColor=c4b5fd)](mailto:betselotgetnet2227@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e1033?style=for-the-badge&logo=linkedin&logoColor=c4b5fd)](https://www.linkedin.com/in/betselot-getnet-semaw-2423561aa/)
+[![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-1e1033?style=for-the-badge&logo=twitter&logoColor=c4b5fd)](https://twitter.com/betselotgetnet)
+
+<br/>
+<sub>Ground station · open for collaboration</sub>
 
 </div>
 
 ---
 
-### About
+### Mission brief
 
-I focus on **machine learning**, **DevOps**, and **AWS** — designing and shipping software that is clear to run, reason about, and improve over time.  
-Explore my work on **[Portfolio](https://portfolio-gdru.vercel.app/)** or reach out by email for collaboration and technical discussion.
+I work where **machine learning**, **DevOps**, and **AWS** meet — systems that stay observable, repeatable, and safe to evolve (same discipline you’d want for a long-duration mission).  
+Plot your next project from **[mission portfolio](https://portfolio-gdru.vercel.app/)** or open a channel by email for technical collaboration.
 
 ---
 
-### Blog posts
+### Field notes
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-### Connect
+### Open channels
 
 <p>
 <a href="https://app.daily.dev/sassybgs_" target="_blank" rel="noopener noreferrer" title="Daily.dev"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Daily.dev" height="28" width="32" /></a>
@@ -47,32 +54,50 @@ Explore my work on **[Portfolio](https://portfolio-gdru.vercel.app/)** or reach 
 
 ---
 
-### Core stack
+### Flight systems
 
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs,git,docker,aws,postgres&perline=9" alt="JavaScript, TypeScript, Python, React, Node.js, Git, Docker, AWS, PostgreSQL" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs,git,docker,aws,postgres&perline=9&theme=dark" alt="JavaScript, TypeScript, Python, React, Node.js, Git, Docker, AWS, PostgreSQL" /></a>
 </p>
 
-*Common languages and platforms for product delivery, APIs, cloud, and data.*
+*Instruments for delivery, APIs, cloud, and data — tuned for launch-day calm.*
 
 ---
 
-### GitHub activity
+### Trajectory & telemetry
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=betselot-ga&theme=transparent&hide_border=true&ring=1f6feb&fire=1f6feb" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com/?user=betselot-ga&theme=tokyonight&hide_border=true&ring=7C3AED&fire=a855f7" alt="GitHub contribution streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=betselot-ga&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=betselot-ga&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20trajectory" alt="GitHub contribution activity graph" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=betselot-ga&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&include_all_commits=true&hide=stars,contribs&show=prs_merged,prs_merged_percentage" alt="GitHub stats: commits, pull requests, merged pull requests, issues" />
+<img src="https://github-readme-stats.vercel.app/api?username=betselot-ga&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&hide=stars,contribs&show=prs_merged,prs_merged_percentage" alt="GitHub statistics card" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=betselot-ga&label=Profile%20views&color=0e639c&style=flat" alt="Profile views" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=betselot-ga&theme=tokyonight" alt="GitHub profile summary: activity overview" />
+
+<br/><br/>
+
+| Language spectrum | Commit cadence (by hour) |
+|:--|:--|
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betselot-ga&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages on GitHub" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=betselot-ga&theme=tokyonight" alt="Commits by time of day" /> |
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=betselot-ga&theme=tokyonight" alt="Repositories per programming language" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=betselot-ga&theme=discord&no-frame=true&margin-w=8&margin-h=8&column=4" alt="GitHub profile trophies" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=betselot-ga&label=Deep+space+scans&color=6d28d9&style=flat" alt="Profile views" />
 
 </div>
