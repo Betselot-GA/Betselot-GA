@@ -26,7 +26,7 @@
 
 ### Mission brief
 
-I work where **machine learning**, **systems engineering**, and **AWS** meet, systems that stay observable, repeatable, and safe to evolve (same discipline you’d want for a long-duration mission).  
+I work where **machine learning** and **systems engineering** meet, systems that stay observable, repeatable, and safe to evolve (same discipline you’d want for a long-duration mission).  
 Plot your next project from **[mission portfolio](https://portfolio-gdru.vercel.app/)** or open a channel by email for technical collaboration.
 
 ---
