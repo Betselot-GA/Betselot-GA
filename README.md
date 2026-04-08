@@ -6,7 +6,7 @@
 
 <sub>Payload · systems · orbit-ready software</sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3200&pause=900&color=C084FC&center=true&vCenter=true&width=620&lines=Plotting+course+across+ML%2C+DevOps+%26+AWS;Ship+reliable+code+like+mission+critical+hardware;Small+experiments+compound+into+deep+discovery" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3200&pause=900&color=C084FC&center=true&vCenter=true&width=720&lines=ML+and+systems+engineering+-+from+signal+to+stable+shipments;Bridging+models%2C+pipelines%2C+and+the+ops+around+them;Iterate+with+instruments%3A+measure%2C+adjust%2C+launch+again" alt="Typing introduction" />
 
 > *“Somewhere, something incredible is waiting to be known.”* — Carl Sagan
 
