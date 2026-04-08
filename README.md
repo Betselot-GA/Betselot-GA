@@ -31,13 +31,6 @@ Plot your next project from **[mission portfolio](https://portfolio-gdru.vercel.
 
 ---
 
-### Field notes
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### Open channels
 
 <p>
